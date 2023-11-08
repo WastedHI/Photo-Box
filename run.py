@@ -44,7 +44,7 @@ def main():
                 eff.updateBrt(BRIGHTNESS)
 
     except KeyboardInterrupt:
-        print("Interupted")
+        print("Good Bye")
         eff.clear()
         eff.clearDisp()
 
